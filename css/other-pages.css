@@ -2500,7 +2500,7 @@ ul.sit-map-ul li.site-map-li .site-main-title ul.site-sub-link li.site-title a::
     background-position: center;
     background-size: cover;
     position: relative;
-    padding: 30px 0px;
+    padding: 100px 0px;
     border-bottom: 1px solid var(--border-color);
 }
 .breadcrumb-area::before {
