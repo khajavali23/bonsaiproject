@@ -2523,6 +2523,14 @@ ul.sit-map-ul li.site-map-li .site-main-title ul.site-sub-link li.site-title a::
         padding: 15px 0px;
     }
 }
+.para{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.pera{
+    padding: 10px;
+}
+
 
 /* breadcrumb-ul css */
 .breadcrumb-index ul.breadcrumb-ul {

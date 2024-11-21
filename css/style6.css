@@ -79,6 +79,13 @@ body.hidden {
     }
 }
 
+@media screen and (max-width : 480px) {
+    .slider-content .home-slider .slider-image-info .slider-text-content{
+        align-items: flex-start !important;
+        margin-top: 50px;
+    }
+}
+
 /*====================================
     heading css
 ====================================*/
