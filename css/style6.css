@@ -1540,7 +1540,9 @@ ul.payment-icon li a img {
 =====================================*/
 .bottom-menu {
     display: none;
-    position: sticky;
+    position: fixed;
+    width: 100%;
+    left: 0;
     bottom: 0;
     padding: 10px 12px;
     background-color: var(--body-bgcolor);
