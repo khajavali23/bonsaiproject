@@ -1542,7 +1542,7 @@ ul.payment-icon li a img {
     display: none;
     position: fixed;
     width: 100%;
-    left: 0;
+    left: 10px;
     bottom: 0;
     padding: 10px 12px;
     background-color: var(--body-bgcolor);
