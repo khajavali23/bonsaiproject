@@ -2831,7 +2831,7 @@ span.header-sale-lable::before {
 }
 @media (max-width: 767px) {
     .our-service .service-content ul.service-ul {        
-        margin: -30px 0px 0px -12px;    
+        margin: -50px 10px;    
     }
     .our-service .service-content ul.service-ul li.service-li {
         width: calc(50% - 12px);
